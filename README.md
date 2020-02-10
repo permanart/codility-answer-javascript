@@ -1,12 +1,12 @@
 # codility-answer-javascrpit
 Codility Answer Javascript
 
-1. Iteration
+1. Iteration <br>
 https://app.codility.com/demo/results/trainingA5495F-TX7/
 
-2. Array
-CyclicRotation : https://app.codility.com/demo/results/trainingAHGWYG-TNT/
-OddOccurrencesInArray : https://app.codility.com/demo/results/trainingBS7QE6-V2Q/
+2. Array <br>
+CyclicRotation : https://app.codility.com/demo/results/trainingAHGWYG-TNT/ <br>
+OddOccurrencesInArray : https://app.codility.com/demo/results/trainingBS7QE6-V2Q/ <br>
 
 3.  Time Complexity
 PermMissingElem : https://app.codility.com/demo/results/training6CQT6P-VHQ/
